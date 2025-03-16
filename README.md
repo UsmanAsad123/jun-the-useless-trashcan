@@ -27,3 +27,9 @@ A prank to confuse people in public spaces
 A creative way to annoy friends and family
 A test of patience for anyone attempting to use it
 Jun isn’t just a trash can. It’s a statement. A protest. A trash can with an identity crisis. And most importantly, it’s totally, absolutely useless.
+
+YOutbe Link:
+
+[!(https://youtube.com/shorts/ECiXPOK4VuE)]
+
+
