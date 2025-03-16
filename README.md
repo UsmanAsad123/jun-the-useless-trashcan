@@ -30,7 +30,7 @@ Jun isn’t just a trash can. It’s a statement. A protest. A trash can with an
 
 YOutbe Link:
 
-[!(https://youtube.com/shorts/ECiXPOK4VuE)]
+[!(https://www.youtube.com/shorts/yMJMccLo82E]
 
 wacth demo here 
 
