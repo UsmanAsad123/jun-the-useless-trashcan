@@ -1,9 +1,9 @@
-# jun-the-useless-trashcan
-Jun is a trash can that refuses trash! Using an Arduino Uno, IR sensor, and two servo motors, it closes its lid when someone approaches and only opens when they walk away. Built from cardboard, it’s a deliberately useless invention that makes waste disposal frustrating instead of easy—exactly as intended!
+# The-useless-trashcan
+A trash can that refuses trash! Using an Arduino Uno, IR sensor, and two servo motors, it closes its lid when someone approaches and only opens when they walk away. Built from cardboard, it’s a deliberately useless invention that makes waste disposal frustrating instead of easy—exactly as intended!
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
 Project Description:
-Meet Jun, the most useless trash can ever created. Instead of helping people throw away their garbage, Jun actively refuses to do its job—closing its lid whenever someone approaches and only opening when they walk away.
+The most useless trash can ever created. Instead of helping people throw away their garbage, Jun actively refuses to do its job—closing its lid whenever someone approaches and only opening when they walk away.
 
 Using an Arduino Uno (Leonardo) and a KS0051 Infrared Obstacle Avoidance Sensor, Jun detects how far a person is. If they are more than 100 cm away, the lid stays open, inviting trash. But the moment someone steps closer, Jun slams the lid shut, rejecting all garbage like a true rebel.
 
